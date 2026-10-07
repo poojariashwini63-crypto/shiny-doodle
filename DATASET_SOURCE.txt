@@ -1,0 +1,16 @@
+DATASET SOURCE
+
+Primary source:
+Kaggle — Student Performance Factors
+https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
+
+Dataset size:
+6,607 rows × 20 columns
+
+Target:
+Exam_Score
+
+Public CSV copy used by app.py:
+https://raw.githubusercontent.com/desithomas/data_607_assignment_1/refs/heads/main/StudentPerformanceFactors.csv
+
+The Streamlit app loads the public CSV automatically. If you want a fully offline project, download the CSV and place it beside app.py as StudentPerformanceFactors.csv.
